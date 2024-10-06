@@ -11,7 +11,7 @@ OpenCV: A robust open-source library for computer vision, widely used for image 
 ## USAGE
 # Initial Steps
 
-Git clone this repository Run: git clone 
+Git clone this repository Run: git clone https://github.com/SANGU1010/Facial_Emotion_Recognition.git
 Run: cd Facial-Emotion-Recognition-using-OpenCV-and-Deepface
 Install the required dependencies:
 
