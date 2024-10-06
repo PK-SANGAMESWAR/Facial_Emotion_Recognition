@@ -2,7 +2,7 @@
 This project implements a real-time emotion recognition system using computer vision and deep learning techniques. It leverages OpenCV for video capture and face detection, along with the DeepFace library for emotion analysis. The system identifies and classifies emotions expressed by individuals captured through a webcam.This project focuses on real-time facial emotion detection utilizing the DeepFace library in conjunction with OpenCV. It captures live video from the webcam, identifies faces, and predicts the emotions displayed on each face. The detected emotions are overlaid on the video frames in real time, creating an interactive experience for monitoring emotional expressions. This implementation stands out as a streamlined solution for emotion recognition in real-time scenarios, showcasing my skills in computer vision and deep learning.
 
 
-Created with PK SANGAMESWAR
+Created by PK SANGAMESWAR
 
 Dependencies
 DeepFace: A powerful deep learning library designed for facial analysis, offering pre-trained models for emotion detection and relying on TensorFlow for computational tasks.
