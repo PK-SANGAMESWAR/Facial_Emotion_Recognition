@@ -1,0 +1,3 @@
+opencv-python
+deepface
+tensorflow  # DeepFace depends on TensorFlow
